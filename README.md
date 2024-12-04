@@ -1,6 +1,6 @@
 # WealthyGuy
 
-##Profile: 
+## Profile: 
 
 NAME : SAMIP ARYAL
 PLACE OF BIRTH : (28.221064, 83.973934)
